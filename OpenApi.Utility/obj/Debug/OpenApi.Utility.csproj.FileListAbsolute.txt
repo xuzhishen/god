@@ -1,0 +1,15 @@
+D:\source\Ppdai.OpenApi\Demo\C#\OpenApi.Utility\bin\Debug\OpenApi.Utility.dll
+D:\source\Ppdai.OpenApi\Demo\C#\OpenApi.Utility\bin\Debug\OpenApi.Utility.pdb
+D:\source\Ppdai.OpenApi\Demo\C#\OpenApi.Utility\bin\Debug\BouncyCastle.Crypto.dll
+D:\source\Ppdai.OpenApi\Demo\C#\OpenApi.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\source\Ppdai.OpenApi\Demo\C#\OpenApi.Utility\bin\Debug\Newtonsoft.Json.xml
+D:\source\Ppdai.OpenApi\Demo\C#\OpenApi.Utility\obj\Debug\OpenApi.Utility.dll
+D:\source\Ppdai.OpenApi\Demo\C#\OpenApi.Utility\obj\Debug\OpenApi.Utility.pdb
+D:\temp\god.com\OpenApi.Utility\bin\Debug\OpenApi.Utility.dll
+D:\temp\god.com\OpenApi.Utility\bin\Debug\OpenApi.Utility.pdb
+D:\temp\god.com\OpenApi.Utility\bin\Debug\BouncyCastle.Crypto.dll
+D:\temp\god.com\OpenApi.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\temp\god.com\OpenApi.Utility\bin\Debug\Newtonsoft.Json.xml
+D:\temp\god.com\OpenApi.Utility\obj\Debug\OpenApi.Utility.dll
+D:\temp\god.com\OpenApi.Utility\obj\Debug\OpenApi.Utility.pdb
+D:\temp\god.com\OpenApi.Utility\obj\Debug\OpenApi.Utility.csprojResolveAssemblyReference.cache
